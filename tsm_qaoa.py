@@ -21,7 +21,7 @@ from qiskit_optimization.converters import QuadraticProgramToQubo
 #    ],
 #    dtype=float,
 #)
-
+print("hello")
 
 dist = np.array([
     [0.0, 1.0, 1.41421356, 1.0],
